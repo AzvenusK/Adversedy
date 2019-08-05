@@ -1,2 +1,2 @@
 # Adversedy
-This is a Virtual Reality Android Game made by me.
+This is a Virtual Reality Android Game where the player can explore the Solar System.
